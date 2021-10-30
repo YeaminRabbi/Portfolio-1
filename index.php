@@ -95,7 +95,7 @@
 			<li><a href="#about"><i class="icon-user-following"></i></a></li>
 			<li><a href="#services"><i class="icon-briefcase"></i></a></li>
 			<li><a href="#experience"><i class="icon-graduation"></i></a></li>
-			<li><a href="#works"><i class="icon-layers"></i></a></li>
+			<li><a href="#contact"><i class="icon-layers"></i></a></li>
 			<!-- <li><a href="#blog"><i class="icon-note"></i></a></li>
 			<li><a href="#contact"><i class="icon-bubbles"></i></a></li> -->
 		</ul>
@@ -446,7 +446,7 @@
 	</section>
 	
 	<!-- section works -->
-	<section id="works">
+	<section id="works" style="display:none;">
 
 		<div class="container">
 			
@@ -608,7 +608,7 @@
 	</section>
 	
 	<!-- section prices -->
-	<section id="prices">
+	<section id="prices"  style="display:none;">
 
 		<div class="container">
 			
@@ -663,7 +663,7 @@
 	</section>
 	
 	<!-- section testimonials -->
-	<section id="testimonials">
+	<section id="testimonials"  style="display:none;">
 
 		<div class="container">
 			
@@ -773,7 +773,7 @@
 	</section>
 	
 	<!-- section blog -->
-	<section id="blog">
+	<section id="blog"  style="display:none;">
 
 		<div class="container">
 			
